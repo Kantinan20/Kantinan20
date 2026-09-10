@@ -9,9 +9,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-Still learning everyday.
+Still learning, every day.
 
-* 🧠  I'm currently learning Ai,Cloud Computing,Network,Cybersecrity
+🧠 Currently expanding my expertise in AI, Cloud Computing, Networking, and Cybersecurity — building a broader technical foundation to complement my hands-on project work.
+
 
 Achievement.Log
 --------------
