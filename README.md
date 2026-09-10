@@ -2,8 +2,7 @@
 <img width="680" height="240" alt="standard" src="https://github.com/user-attachments/assets/25860244-d390-4f97-a246-75eab69049b1" />
 
 
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kantinan Tithaarphakul
+I'm Kantinan Tithaarphakul
 ===============================================================================================================================================
 
 Student
